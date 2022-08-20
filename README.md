@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-fael" alt="adel-fael" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, React.js, BulmaCSS**
+- 🌱 I’m currently learning: **SQL, React.js, BulmaCSS**
 
-- 👨‍💻 All of my projects are available at [https://adelfael.netlify.app/](https://adelfael.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://adelfael.netlify.app/](https://adelfael.netlify.app/)
 
-- 📫 How to reach me **new19.adel@gmailcom**
+- 📫 Reach me: **new19.adel@gmailcom**
 
-- 📄 Know about my experiences [https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf](https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf)
+- 📄 Know about my experiences: [https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf](https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf)
 
-- ⚡ Fun fact **I do magic and Sleight of hand using Playing Cards**
+- ⚡ Fun fact: **I do magic and Sleight of hand using Playing Cards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
