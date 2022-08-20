@@ -30,6 +30,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiadel-fael=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-&count_private=true&show_icons=true&theme=tokyonight
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adel-fael&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
