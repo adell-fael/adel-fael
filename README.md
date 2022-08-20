@@ -25,8 +25,8 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adel-fael&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/adel-fael/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adel-fael&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adel-fael&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adel-fael&theme=tokyonight&hide_border=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel-fael&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel-fael&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)]
