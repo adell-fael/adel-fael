@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adel</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A dedicated Frontend Developer. 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-fael&label=Profile%20views&color=0e75b6&style=flat" alt="adel-fael" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adel-fael" alt="adel-fael" /></a> </p>
+- 🌱 I’m currently learning **SQL, React.js, BulmaCSS**
 
-- 🌱 I’m currently learning: **SQL, React.js, BulmaCSS**
-
-- 👨‍💻 All of my projects are available at: [https://adelfael.netlify.app/](https://adelfael.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adelfael.netlify.app/](https://adelfael.netlify.app/)
 
 - 📫 Reach me: **new19.adel@gmailcom**
 
-- 📄 Know about my experiences: [https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf](https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf)
+- 📄 Know about my experiences [https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf](https://adelfael.netlify.app/assets/pdf/Adel_Fael_Web_Dev.pdf)
 
-- ⚡ Fun fact: **I do magic and Sleight of hand using Playing Cards**
+- ⚡ Fun fact **I do magic and Sleight of hand using Playing Cards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
