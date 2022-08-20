@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adel-fael&show_icons=true&locale=en" alt="adel-fael" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adel-fale&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adel-fale&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)
