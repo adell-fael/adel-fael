@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
 
 <a href="http://www.github.com/adel-fael"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adel-fael&stroke=6366f1&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/adel-fael"><img src="https://activity-graph.herokuapp.com/graph?username=adel-fael&bg_color=0f172a&color=6366f1&line=444e59&point=6366f1&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/adel-fael" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adel-fael&layout=compact&langs_count=10&title_color=a855f7&text_color=6366f1&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/adel-fael"><img src="https://activity-graph.herokuapp.com/graph?username=adel-fael&bg_color=0f172a&color=6366f1&line=444e59&point=6366f1&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
