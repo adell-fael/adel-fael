@@ -3,7 +3,6 @@
 
 <a href="https://www.github.com/adel-fael" target="_blank" rel="noreferrer"><img
 src="https://komarev.com/ghpvc/?username=adel-fael&label=Profile%20views&color=0f172a&style=flat" /></a>
-
 <a href="https://www.github.com/adel-fael" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
 
@@ -29,11 +28,8 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
   </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
