@@ -8,6 +8,8 @@
 
 <a href="https://www.github.com/adel-fael" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a>
+
+
 ### Skills
 
 <p align="left">
@@ -35,6 +37,8 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/adel-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/adel-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adel-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
 ### Badges
 
 
