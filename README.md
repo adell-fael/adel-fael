@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adel Fael</h1>
 <h3 align="center">A dedicated Web / Frontend Developer. 😎</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adel-fael&label=Profile%20views&color=0e75b6&style=flat" alt="adel-fael" /> </p>
+
 * 🖥️  See my portfolio at [Portfolio](http://adelfael.netlify.app/)
 * ✉️  You can contact me at [new19.adel@gmail.com](mailto:new19.adel@gmail.com)
 * 🧠  I'm learning React, SQL, BulmaCSS
