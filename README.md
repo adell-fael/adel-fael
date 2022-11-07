@@ -9,8 +9,8 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
 
 * 🖥️  See my portfolio at [Portfolio](http://adelfael.netlify.app/)
 * ✉️  You can contact me at [new19.adel@gmail.com](mailto:new19.adel@gmail.com)
-* 🧠  I'm learning React, SQL, BulmaCSS
-* ⚡  I do Magic tricks with playing cards
+* 🧠  Constantly Learning new things
+* ⚡  I do slieght of hands with cards
 
 
 ### Skills
@@ -56,6 +56,11 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/adel-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/adel-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adel-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/adellfaell"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ### Badges
 
