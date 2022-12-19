@@ -64,9 +64,6 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
 
 <a href="https://github.com/adel-fael" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adel-fael&layout=compact&langs_count=10&title_color=a855f7&text_color=6366f1&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/adel-fael">
+<!-- <a href="http://www.github.com/adel-fael">
 <img src="https://activity-graph.herokuapp.com/graph?username=adel-fael&bg_color=0f172a&color=6366f1&line=444e59&point=6366f1&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adel-fael&show_icons=true&theme=rose_pine)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel-fael&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+ -->
