@@ -69,3 +69,4 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adel-fael&show_icons=true&theme=rose_pine)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel-fael&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
