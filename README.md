@@ -52,10 +52,6 @@ src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the
 <p align="left"> <a href="https://codepen.io/adell-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/adell-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adell-fael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-### Support Me:
-
-<a href="https://www.buymeacoffee.com/adellfaell"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Badges:
 
 <a href="http://www.github.com/adel-fael"><img src="https://github-readme-stats.vercel.app/api?username=adel-fael&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=444e59&bg_color=0f172a&hide_border=true&show_icons=true" alt="adel-fael's GitHub stats" /></a>
