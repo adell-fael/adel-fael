@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adel Fael</h1>
 <h3 align="center">A dedicated Web / Frontend Developer. 😎</h3>
 
-<a href="https://www.github.com/adel-fael" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/adell-fael" target="_blank" rel="noreferrer"><img
 src="https://komarev.com/ghpvc/?username=adel-fael&label=Profile%20views&color=0f172a&style=flat" /></a>
 
-<a href="https://www.github.com/adel-fael" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
+<a href="https://www.github.com/adell-fael" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/adell-fael?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
 
 * 🖥️  See my portfolio at [adelfael.vercel.app](https://adelfael.vercel.app/)
 * ✉️  You can contact me at [adel0fael@gmail.com](mailto:adel0fael@gmail.com)
