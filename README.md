@@ -8,7 +8,7 @@ src="https://komarev.com/ghpvc/?username=adel-fael&label=Profile%20views&color=0
 src="https://img.shields.io/github/followers/adel-fael?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
 
 * 🖥️  See my portfolio at [adelfael.vercel.app](https://adelfael.vercel.app/)
-* ✉️  You can contact me at [new19.adel@gmail.com](mailto:new19.adel@gmail.com)
+* ✉️  You can contact me at [adel0fael@gmail.com](mailto:adel0fael@gmail.com)
 * 🧠  Constantly Learning new things
 * ⚡  I do slieght of hands with cards
 
